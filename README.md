@@ -1,4 +1,4 @@
-# bloxflip-case-Predictor
-a bloxflip Extension Predictor that auto play's for you and Predicts  when to join a case battle very accurate  
+# robux/gamepass gifter [EXTENSION]
+a roblox extension where you can GIFT ROBUX AND GAMEPASSES FINALLY!! using trading api!  
 
 https://www.youtube.com/watch?v=oswjtLwCUqg HOW TO SETUP
